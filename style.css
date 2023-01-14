@@ -13,10 +13,11 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #222;
+  background-color: #111;
   font-family:titillium;
   font-size:1.2rem;
   color:#eee;
+  font-weight: 600;
 }
 
 img {
@@ -29,6 +30,6 @@ img {
 }
 
 a,a:visited {
-  color: rgb(42, 129, 151);
-  font-weight:600;
+  color: rgb(72, 236, 236);
+  font-weight: 900;
 }
